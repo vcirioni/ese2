@@ -1,0 +1,18 @@
+PROGETTO di Architettura 
+di rete aziendale con piccola sede esterna
+Contesto
+Una media impresa ha la necessità di mettere a disposizione i propri servizi digitali interni a dipendenti che lavorano in piccole sedi remote. A tal fine acquista connettività internet da un ISP richiedendo un indirizzo IP statico per il proprio gateway. Per la sede periferica è invece richiesta una connettività retail con IP dinamico assegnato al momento della connessione da servizio DHCP.
+
+Architettura FISICA (cablaggio e/o rete wifi e apparati di rete) 
+ISO/OSI L1 e L2
+
+[Lavoro per Fabiola] – Analisi e Soluzione per LAN sede centrale
+
+[Lavoro per Mirco] – Analisi e Soluzione per LAN sede periferica
+
+[Lavoro per Luca] – Analisi e Soluzione per WAN tra le due reti LAN
+
+
+
+
+

@@ -1,0 +1,7 @@
+WAN tra le due reti LAN
+Le due reti LAN per connettersi tra di loro essendo lontane hanno bisogno di una rete WAN ad accesso pubblico come INTERNET.
+La sede centrale si rivolge ad un ISP e stabilisce che la soluzione migliore per le sue esigenze di servizi da rendere accessibili alle sedi distaccate (ha un server WEB interno da rendere pubblico) è quella di una connessione in fibra ottica …
+
+
+Per l’accesso alla rete pubblica Internet questo dispositivo offre un modem adsl in grado di utilizzare il cavo telefonico presente nell’ufficio affittato. 
+
